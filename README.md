@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Shriya Bannikop</h1>
 <h3 align="center">Driven by the excitement of unraveling insights from data and crafting innovative solutions, I am a dedicated Data Engineer and Analyst with a knack for transforming raw information into actionable intelligence. With a robust background in technologies spanning Python, SQL, AWS, and beyond, I thrive in dynamic environments where I can leverage my expertise to drive meaningful impact.</h3>
-<img align="center" alt="Data" width="400" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif">
+<div align="center">
+    <img alt="Data" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriyab2099&label=Profile%20views&color=0e75b6&style=flat" alt="shriyab2099" /> </p>
