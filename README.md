@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shriya Bannikop</h1>
-<h3 align="center">Driven by the excitement of unraveling insights from data and crafting innovative solutions, I am a dedicated Data Engineer and Analyst with a knack for transforming raw information into actionable intelligence. With a robust background in technologies spanning Python, SQL, AWS, and beyond, I thrive in dynamic environments where I can leverage my expertise to drive meaningful impact.</h3>
+<h3 align="center">Driven by building scalable and reliable software systems, I’m a Software Development Engineer with hands-on experience designing backend services and data platforms that transform raw data into dependable, production-ready solutions. I work across Python, SQL, AWS, and distributed systems, and thrive in fast-paced, collaborative environments where performance, data quality, and real-world impact matter.</h3>
 <div align="center">
     <img alt="Data" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 </div>
